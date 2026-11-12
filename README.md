@@ -10,4 +10,6 @@ Target repository for the dsh-superagent agent running in DeepSeek Harness (desk
 
 ## Status
 
+Chinese replies enabled.
+
 Initialised so the repository has a default branch the agent can clone and branch from.
